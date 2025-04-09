@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">Hi 👋. I'm Gustavo, a passionate Software Engineering student from Brazil.<br><br>🌱 I'm currently studying Software Engineering at Federal University of Technology – Paraná.<br><br>☂️ For now, I'm focusing on developing my front-end skills to land my first job as a Front-End Developer.<br><br>More about me<br><br>💬 I'm 18 years old and currently living in Brazil. I have a B2 level in English, but I'm aiming for C2 level. Furthermore, I have experience with ReactJs, Typescript and Nextjs, in addition to HTML and CSS.<br><br>⚡I also have strong communication skills and enjoy collaborating on projects.</p>
+<p align="left">Hi 👋. I'm Gustavo, a passionate Software Engineering student from Brazil.<br><br>🌱 I'm currently studying Software Engineering at Federal University of Technology – Paraná.<br><br>☂️ For now, I'm focusing on developing my front-end skills to land my first job as a Front-End Developer.<br><br>More about me<br><br>💬 I'm 18 years old and currently living in Brazil. I have a C1 level in English, but I'm aiming for C2 level. Furthermore, I have experience with ReactJs, Typescript and Nextjs, in addition to HTML and CSS.<br><br>⚡I also have strong communication skills and enjoy collaborating on projects.</p>
 
 ###
 
