@@ -22,7 +22,7 @@
 
 ###
 <p>Check My Portfolio:</p>
-<a href="portfolio-gustavo-tesin.netlify.app" target="_blank"> Click Here </a> 
+<a href="[portfolio-gustavo-tesin.netlify.app](https://portfolio-gustavo-tesin.netlify.app/)" target="_blank"></a> 
 
 ###
 
