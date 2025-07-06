@@ -21,7 +21,7 @@
 </div>
 
 ###
-<p>Check My Portfolio:    <a href="https://wa.me/5518981640961" target="_blank">portfolio-gustavo-tesin.netlify.app  </a> </p>
+<p>Check My Portfolio:    <a href="portfolio-gustavo-tesin.netlify.app " target="_blank"> Click Here</a> </p>
 
 ###
 
